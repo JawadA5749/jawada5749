@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jawad! <br/><a href="https://github.com/joshmadakor1">Aspiring IT Professional</a></h1>
+<h1>Hi, I'm Jawad! <br/><a href="https://github.com/JawadA5749">Aspiring IT Professional</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 
