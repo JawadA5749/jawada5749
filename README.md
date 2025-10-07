@@ -3,6 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/JawadA5749/Active-Directory-Home-Lab/blob/main/AD_home_lab.md)
+- [Network Printer Configuration](https://github.com/JawadA5749/Network-Printer-Configuration/blob/main/Network_Printer.md)
 
 <h2>📜 Certifications:</h2>
 
